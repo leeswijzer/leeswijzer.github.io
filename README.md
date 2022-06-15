@@ -5,6 +5,8 @@ Present:
 
 　[pagina](http://leeswijzer.org/)
 
+　[dagboek](http://leeswijzer.org/diary.html)
+
 　[leeswijzer](https://leeswijzer.hatenadiary.com/)
 
 　[facebook](https://www.facebook.com/leeswijzer)
@@ -13,4 +15,4 @@ Present:
 
 　[instagram](https://www.instagram.com/leeswijzer/)
 
-Last updated: 14 June 2022
+　Last updated: 15 June 2022
