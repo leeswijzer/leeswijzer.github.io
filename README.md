@@ -15,4 +15,6 @@ Present:
 
 　[instagram](https://www.instagram.com/leeswijzer/)
 
-　Last updated: 15 June 2022
+　[keukenleven](http://leeswijzerplus.blogspot.com/)
+
+　Last updated: 17 June 2022
