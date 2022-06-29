@@ -17,4 +17,8 @@ Future repository for leeswijzer
 
 　[keukenleven](http://leeswijzerplus.blogspot.com/)
 
-　　Last updated: 22 June 2022
+　[note](https://note.com/leeswijzer)
+
+　[researchmap](https://researchmap.jp/leeswijzer/)
+
+　　Last updated: 29 June 2022
