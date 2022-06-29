@@ -3,22 +3,22 @@ Future repository for leeswijzer
 
 　Present: 
 
-　[pagina](http://leeswijzer.org/)
+　　[pagina](http://leeswijzer.org/)
 
-　[dagboek](http://leeswijzer.org/diary.html)
+　　[dagboek](http://leeswijzer.org/diary.html)
 
-　[leeswijzer](https://leeswijzer.hatenadiary.com/)
+　　[leeswijzer](https://leeswijzer.hatenadiary.com/)
 
-　[facebook](https://www.facebook.com/leeswijzer)
+　　[facebook](https://www.facebook.com/leeswijzer)
 
-　[twitter](https://twitter.com/leeswijzer)
+　　[twitter](https://twitter.com/leeswijzer)
 
-　[instagram](https://www.instagram.com/leeswijzer/)
+　　[instagram](https://www.instagram.com/leeswijzer/)
 
-　[keukenleven](http://leeswijzerplus.blogspot.com/)
+　　[keukenleven](http://leeswijzerplus.blogspot.com/)
 
-　[note](https://note.com/leeswijzer)
+　　[note](https://note.com/leeswijzer)
 
-　[researchmap](https://researchmap.jp/leeswijzer/)
+　　[researchmap](https://researchmap.jp/leeswijzer/)
 
-　　Last updated: 29 June 2022
+　　　Last updated: 29 June 2022
