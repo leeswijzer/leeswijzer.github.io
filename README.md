@@ -21,4 +21,6 @@ Future repository for leeswijzer
 
 　　[researchmap](https://researchmap.jp/leeswijzer/)
 
-　　　Last updated: 10 July 2022
+​		[books](http://leeswijzer.org/files/books.html)
+
+　　　Last updated: 12 October 2022
