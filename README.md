@@ -1,7 +1,5 @@
 # leeswijzer.github.io
-Future repository for leeswijzer
-
-　Present: 
+Repository for leeswijzer
 
 　　[pagina](http://leeswijzer.org/)
 
@@ -19,8 +17,8 @@ Future repository for leeswijzer
 
 　　[note](https://note.com/leeswijzer)
 
-　　[researchmap](https://researchmap.jp/leeswijzer/)
-
 　　[books](http://leeswijzer.org/files/books.html)
 
-　　　Last updated: 16 February 2023
+　　[researchmap](https://researchmap.jp/leeswijzer/)
+
+　　　Last updated: 3 June 2023
