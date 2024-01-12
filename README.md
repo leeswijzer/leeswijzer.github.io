@@ -1,7 +1,7 @@
 # leeswijzer.github.io
 Repository for leeswijzer
 
-　　[pagina](http://leeswijzer.org/)
+　　[startpagina](http://leeswijzer.org/)
 
 　　[dagboek](http://leeswijzer.org/diary.html)
 
