@@ -19,8 +19,8 @@ Repository for leeswijzer
 
 　　[note](https://note.com/leeswijzer)
 
-　　[books](http://leeswijzer.org/files/books.html)
+　　[boeken](http://leeswijzer.org/files/books.html)
 
 　　[researchmap](https://researchmap.jp/leeswijzer/)
 
-　　　Last updated: 11 January 2024
+　　　Last updated: 28 January 2024
