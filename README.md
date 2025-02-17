@@ -9,11 +9,11 @@ Repository for leeswijzer
 
 　　[facebook](https://www.facebook.com/leeswijzer)
 
-　　[twitter (𝕏)](https://twitter.com/leeswijzer)
-
 　　[bluesky](https://bsky.app/profile/leeswijzer.bsky.social)
 
 　　[instagram](https://www.instagram.com/leeswijzer/)
+
+　　[twitter (𝕏)](https://twitter.com/leeswijzer)
 
 　　[keukenleven](http://leeswijzerplus.blogspot.com/)
 
@@ -23,4 +23,4 @@ Repository for leeswijzer
 
 　　[researchmap](https://researchmap.jp/leeswijzer/)
 
-　　　Last updated: 3 April 2024
+　　　Last updated: 18 February 2025
