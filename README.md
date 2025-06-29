@@ -23,4 +23,4 @@ Repository for leeswijzer
 
 　　[researchmap](https://researchmap.jp/leeswijzer/)
 
-　　　Last updated: 18 February 2025
+　　　Last updated: 28 June 2025
